@@ -1,5 +1,7 @@
 @import url('hero.css');
 @import url('footer.css');
+@import url('vars.css');
+
 body {
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
